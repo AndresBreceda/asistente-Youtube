@@ -22,8 +22,8 @@ Finalmente, abre YouTube en una nueva pestaña con la búsqueda correspondiente.
 ## 📦 Instalación en Colab
 No requiere instalación local. Solo copia y ejecuta el siguiente código en una celda:
 
-```python
 !pip install SpeechRecognition gTTS pydub
+
 
 ## ▶️ Uso
 1. Ejecuta el asistente.
